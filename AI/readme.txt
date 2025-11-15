@@ -1,1 +1,1 @@
-https://github.com/BindusekharGorintla/Complete-RoadMap-To-Learn-AI
+https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI
