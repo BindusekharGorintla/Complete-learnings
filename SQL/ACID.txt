@@ -1,0 +1,40 @@
+I was aware that -
+A stands for Atomicity 
+C stands for Consistency
+I stands for Isolation
+D stands for Durability
+
+but I could not relate things and understand this at all.
+
+I explored it in detail while I was working for Cisco and let me present that with simple examples.
+
+Let's assume you have a HDFC saving bank account & You have 25k in your account.
+
+Minimum balance in account should be 5k
+
+Consider, you are trying to transfer some amount to your friends account.
+
+This involves 2 activities -
+1. money deducted from your account
+2. money added to your friends account
+
+what if first activity succeeds and second one fail?
+
+Money will be deducted from your account,
+also your friend has not yet received the amount.
+
+this will lead the system in a wrong/inconsistent state
+
+1) Atomicity: It says either both the above activities happen as a whole or none of the activity happens. so that we never end up in an inconsistent state.
+
+2) Consistency: lets say you want to transfer Rs 25000,
+if the transaction goes through it will lead the system in an Inconsistent state as the balance will be 0 now,
+and min balance should have been 5k
+
+3) Isolation - you are transferring 10k to your friend
+so first your account gets deducted - at time t1
+later, your friend account get added with 10k - at time t3
+
+what if a new reader tried to get your account balance and your friends account balance at time t2 which is in between t1 and t3?
+
+If there is no isolation that person will see wrong data (money deducted from your account, but not added to your friends account)
