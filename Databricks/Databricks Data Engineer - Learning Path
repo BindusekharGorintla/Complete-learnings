@@ -1,0 +1,40 @@
+DLT Apparel Streaming Pipeline
+Build a streaming data pipeline with Databricks DLT, medallion architecture, and SCD2.
+https://github.com/jrlasak/databricks_apparel_streaming?utm_source=substack&utm_medium=email
+
+Delta Lake Optimization Project
+Explore partitioning, Z-Ordering, compaction, Liquid Clustering, and VACUUM. Includes step-by-step notebook measuring file scans, bytes read, and query performance.
+https://github.com/jrlasak/databricks_optimization_techniques?utm_source=substack&utm_medium=email
+
+PySpark Certification Zenith
+PySpark exercises aligned to certification objectives: DataFrames, SQL, joins, aggregations, and window functions. Guided solutions included.
+https://github.com/jrlasak/databricks_pyspark_cert_zenith?utm_source=substack&utm_medium=email
+
+Real-Time Fintech Transaction Monitoring Pipeline
+Build a real-time fraud monitoring pipeline: Auto Loader ingestion, watermarked deduplication, stream-static joins, tumbling/sliding window rules engine, and medallion architecture with dual SLAs.
+https://github.com/jrlasak/databricks_fintech_monitoring?utm_source=substack&utm_medium=email
+
+Databricks Data Engineer Interview Questions (Ansh Lamba)
+3-hour tutorial: Autoloader, PySpark, Spark Streaming, Incremental Data Loading, DLT, Databricks Pipelines, and Spark Compute with real-world scenarios.
+
+youtube.com/watch?v=7ganPN2kqSI&utm_source=substack&utm_medium=email
+
+Azure Databricks Interview Questions 2025 (Ansh Lamba)
+Real-time scenarios: PySpark ingestion, Autoloader, schema evolution, Delta time travel, Spark optimization, Unity Catalog, and Azure Data Lake.
+https://www.youtube.com/watch?v=njE89SwtPYI
+
+PySpark Interview Questions 2025 (Ansh Lamba)
+4+ hours of PySpark interview prep: Delta Lake, Structured Streaming, Spark Architecture, SparkSQL, file formats, plus conceptual and coding questions.
+
+https://www.youtube.com/watch?v=fOCiis31Ng4
+
+Interview Questions:
+
+https://dataengineerwiki.substack.com/p/10-popular-interview-questions-for?utm_source=substack&utm_medium=email
+https://dataengineerwiki.substack.com/p/10-spark-performance-questions-for?utm_source=substack&utm_medium=email
+https://dataengineerwiki.substack.com/p/10-delta-lake-questions-for-150k?utm_source=substack&utm_medium=email
+
+Advanced PySpark & Spark Optimization
+
+https://www.youtube.com/watch?v=CY_WaxCxJco
+https://www.youtube.com/watch?v=r7FTCuTl84g&utm_source=substack&utm_medium=email
