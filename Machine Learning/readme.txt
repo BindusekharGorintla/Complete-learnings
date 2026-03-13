@@ -6,35 +6,35 @@ The Math First
 → Linear algebra simplified.
 → Stats from scratch.
 → Calculus that makes sense.
-https://lnkd.in/grkVkTDP
+https://github.com/jonkrohn/ML-foundations
 
 Python Basics
 → NumPy, Pandas, Matplotlib.
 → Clean code from day one.
 → No bloated tutorials.
-https://lnkd.in/gcu5dDXK
+https://github.com/tirthajyoti/Machine-Learning-with-Python
 
 Core ML
 → Supervised vs unsupervised.
 → Decision trees to SVMs.
 → Real datasets used always.
-https://lnkd.in/gbPn8UMw
+https://github.com/Nyandwi/machine_learning_complete
 
 Deep Learning
 → Neural nets from scratch.
 → Backprop finally explained.
 → PyTorch over everything.
-https://lnkd.in/gTJqFrsv
+https://github.com/mrdbourke/pytorch-deep-learning
 
 Practical Skills
 → Feature engineering done right.
 → Model evaluation that matters.
 → Deploy before you graduate.
-https://lnkd.in/g66gk8NE
+https://github.com/dipanjanS/practical-machine-learning-with-python
 
 Real Projects
 → Spam classifier.
 → House price predictor.
 → Image recognition pipeline.
 
-Main Repo [Notes + Videos]: https://lnkd.in/gzWCBB9a
+Main Repo [Notes + Videos]: https://github.com/dair-ai/ML-Course-Notes
