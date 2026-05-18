@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This repository serves as a **comprehensive knowledge base** for modern data and AI technologies.  
-It consolidates tutorials, code samples, and best practices across **Python, PySpark, Data Science, SQL, Machine Learning, Deep Learning, Generative AI, and Agentic AI**.  
+It consolidates tutorials, code samples, and best practices across **Databricks, Python, PySpark, Data Science, SQL, Machine Learning, Deep Learning, Generative AI, and Agentic AI**.  
 The goal is to provide a **one-stop reference** for learners, practitioners, and researchers.
 
 ---
